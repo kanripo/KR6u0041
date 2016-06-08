@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:45.843631
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 現在十方千五百佛名並雜佛同號
 #+PROPERTY: CBETA_ID T85n2905
 #+PROPERTY: ID KR6u0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2905
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0041_T_000-1446c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0041_T_001-1446c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
