@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:45.843631
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 現在十方千五百佛名並雜佛同號
 #+PROPERTY: CBETA_ID T85n2905
 #+PROPERTY: ID KR6u0041
